@@ -18,3 +18,9 @@ public class Hello{
 <p align="center">
   <img src="https://github.com/Ajeabal/Remote-Practice/assets/97341527/1dad87cf-8e7f-44db-bb08-52b9c4e9c9eb">
 </p>
+
+<h1>표 만들기</h1>
+| Header | Header | Header | Header |
+| ------ | ------ | ------ | ------ |
+| Cell   | Cell   | Cell   | Cell   |
+| Cell   | Cell   | Cell   | Cell   |
